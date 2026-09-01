@@ -1,0 +1,17 @@
+posts: list[dict] = [
+    {
+        "id": 1,
+        "author": "Kratika Gupta",
+        "title": "FastApi is Awesome",
+        "content": "ejrhfru rhfuehg dhfudsg tgyedsfgr tfdf tffd gfdtyrtsd rwerdkdfvi gf6terfgefg tdr6e5fcb "
+        "date_posted": "April 20, 2026",
+    },
+    {
+        "id": 2,
+        "author": "Xyz uefy",
+        "title": "FastApi is Awesome",
+        "content": "ejrhfru rhfuehg dhfudsg tgyedsfgr tfdf tffd gfdtyrtsd rwerdkdfvi gf6terfgefg tdr6e5fcb "
+        "date_posted": "April 24, 2026",
+    },
+    
+]
