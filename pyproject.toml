@@ -8,11 +8,16 @@ authors = [
 ]
 requires-python = ">=3.13"
 dependencies = [
+    "aiosqlite>=0.22.1",
     "fastapi[standard]>=0.141.1",
     "graphviz>=0.21",
+    "greenlet>=3.5.5",
     "jupyter>=1.1.1",
     "matplotlib>=3.11.1",
     "numpy>=2.5.2",
+    "pwdlib[argon2]>=0.3.1",
+    "pydantic-settings>=2.15.0",
+    "pyjwt>=2.13.0",
     "sqlalchemy>=2.0.52",
     "torch",
 ]
